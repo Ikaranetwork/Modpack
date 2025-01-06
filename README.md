@@ -9,7 +9,7 @@ These are the minimum requirements to run this modpack
 - Java 21
 
 # Mods
-There are currently __31__ mods in the modpack folder...
+There are currently _31_ mods in the modpack folder...
 
 - Sodium
 - Legacy Blocking
