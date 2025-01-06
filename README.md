@@ -22,3 +22,4 @@
 # Contributors
 - Ikaranetwork
 - [JT (PvPLand Owner/Developer) | Legacy Blocking](https://github.com/PvPLand/LegacyBlocking)
+- [Legoraft | Simple Armor Hud](https://github.com/legoraft/simple-armor-hud)
