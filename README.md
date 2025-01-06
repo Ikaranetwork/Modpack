@@ -1,6 +1,13 @@
 # Overview
 1.21.4 Modpack for Ikara Network designed to enhance gameplay and simulate 1.8 PvP while providing the best optimizations for the most fps and lowest input latency!
 
+# Installation
+Install Ikara Modpack Automatically through websites like curseforge and modrinth or manually install through the Fabric Launcher.
+
+- [Curseforge](https://www.curseforge.com/members/oipika/projects)
+- [Modrinth](https://modrinth.com/organization/ikara)
+- [Fabric](https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.exe)
+
 # Requirements
 These are the minimum requirements to run this modpack
 
