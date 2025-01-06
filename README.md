@@ -6,6 +6,8 @@
 - Java 21
 
 # Mods
+There are currently 24 mods in the modpack folder...
+
 - Sodium
 - Legacy Blocking
 - Simple Voice Chat
