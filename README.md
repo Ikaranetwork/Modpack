@@ -29,6 +29,7 @@ These mods may have incompatibility with some mods and are use at your own risk
 
 - [Vulcan Render](https://modrinth.com/mod/vulkanmod)
 - [Nvidium](https://modrinth.com/mod/nvidium) (Only works for Rtx 20 Series cards & above!)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 
 *To try out the branches with Nvidium or Vulcan, make sure to change the branch from main to either main or vulcan*
 
