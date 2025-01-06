@@ -19,6 +19,12 @@
 - Essentials
  *& Much more...*
 
+# Honorable Mentions
+These mods are currently not in the folder as they can be incompatible with certain PC's so you will have to add it to your own mod pack and experiement if bugs occur or not for you
+
+- [Vulcan Render](https://modrinth.com/mod/vulkanmod)
+- [Nvidium](https://modrinth.com/mod/nvidium) (Only works for Rtx 20 Series cards & above!)
+
 # Contributors
 - Ikaranetwork
 - [JT (PvPLand Owner/Developer) | Legacy Blocking](https://github.com/PvPLand/LegacyBlocking)
