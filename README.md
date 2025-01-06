@@ -9,7 +9,7 @@ These are the minimum requirements to run this modpack
 - Java 21
 
 # Mods
-There are currently 24 mods in the modpack folder...
+There are currently __29__ mods in the modpack folder...
 
 - Sodium
 - Legacy Blocking
@@ -24,13 +24,13 @@ There are currently 24 mods in the modpack folder...
 - Essentials
  *& Much more...*
 
-# Honorable Mentions
-These mods are currently not in the folder as they can be incompatible with certain PC's so you will have to add it to your own mod pack and experiement if bugs occur or not for you
+# Experimentation
+These mods may have incompatibility with some mods and are use at your own risk
 
 - [Vulcan Render](https://modrinth.com/mod/vulkanmod)
 - [Nvidium](https://modrinth.com/mod/nvidium) (Only works for Rtx 20 Series cards & above!)
 
-*To try out the branches with Nvidium or Vulcan, make sure to change the branch from main to either nvidium or vulcan*
+*To try out the branches with Nvidium or Vulcan, make sure to change the branch from main to either main or vulcan*
 
 # Contributors
 - Ikaranetwork
