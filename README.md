@@ -16,14 +16,14 @@ These are the minimum requirements to run this modpack
 - Java 21
 
 # Mods
-There are currently 31 mods in the modpack folder...
+There are currently 33 mods in the modpack folder...
 
 - Sodium
 - Legacy Blocking
 - Simple Voice Chat
 - Ping Wheel Mod
 - Noxesium
-- Mod Menu
+- Replay Mod
 - More Culling
 - Lithium
 - Freelook
@@ -38,7 +38,7 @@ These mods may have incompatibility with some mods and are use at your own risk
 - [Nvidium](https://modrinth.com/mod/nvidium) (Only works for Rtx 20 Series cards & above!)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) (Has compatibility issues with most shaders)
 
-*To try out the branches with Nvidium or Vulcan, make sure to change the branch from main to either main or vulcan*
+*To try out the branches with Nvidium or Vulcan, make sure to change the branch from main to either nvidium or vulcan*
 
 # Contributors
 - Ikaranetwork
