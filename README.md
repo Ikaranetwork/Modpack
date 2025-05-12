@@ -11,14 +11,13 @@ Install Ikara Modpack Automatically through websites like curseforge and modrint
 *To use our modpack on clients like lunar, follow these steps*
 
 **Lunar**
-
-*Lunar's branch has less mods than the fabric branch as lunar has some mods already built in.*
+ *Lunar's branch has less mods than the fabric branch as lunar has some mods already built in.*
 
 1. Open Lunar Launcher
 
 2. Select more version & go to 1.21.4
 
-3. Click the gear icon right thats next to `**LAUNCH GAME**`
+3. Click the gear icon right thats next to **`LAUNCH GAME`**
 
 4. Then find the open mods folder and drag all the mods into that folder
 
