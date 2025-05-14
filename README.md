@@ -1,5 +1,5 @@
 # Overview
-1.21.4 Modpack for Ikara Network designed to enhance gameplay and simulate 1.8 PvP while providing the best optimizations for the most fps and lowest input latency!
+1.21.4 Modpack for Ikara Network designed to enhance gameplay and simulate 1.7/1.8 PvP while providing the best optimizations for the most fps and lowest input latency!
 
 ## Installation
 Install Ikara Modpack Automatically through websites like curseforge and modrinth or manually install through the Fabric Launcher.
@@ -12,17 +12,17 @@ Install Ikara Modpack Automatically through websites like curseforge and modrint
 
 **Lunar**
 
-*Lunar's branch has less mods than the fabric branch as lunar has some mods already built in.*
-
 1. Open Lunar Launcher
 
 2. Select more version & go to 1.21.4
 
-3. Click the gear icon right thats next to `**LAUNCH GAME**`
+3. Click the gear icon that's right next to **`LAUNCH GAME`**
 
 4. Then find the open mods folder and drag all the mods into that folder
 
 5. You are now done and able to launch lunar client!
+
+*Note: Lunar's branch has less mods than the fabric branch as lunar has some of the mods already built in.*
 
 ## Requirements
 These are the minimum requirements to run this modpack
@@ -32,17 +32,16 @@ These are the minimum requirements to run this modpack
 - Java 21
 
 ## Mods
-There are currently 35 mods in the modpack folder...
+There are currently 31 mods in the modpack folder...
  
 #### Comabt
  
-| Mods (6)     		  		   | Description 											  |
+| Mods (5)     		  		   | Description 											  |
 |------------------------------|----------------------------------------------------------|
 | `Animatium`  				   | All in one Legacy Animation mod replicating 1.7/1.8 PvP. |
 | `Apple Skin` 				   | Adds various food information in UI.                     |
 | `Freelook`   		 		   | Allows you to freely look around 360°.		     		  |
 | `Simple Armour Hud`		   | Displays your armour & durability.		  				  |
-| `Marlow's Crystal Optimizer` | Optimizes Crystal Explosion PvP.                         |
 | `Ping Wheel` 		  		   | Allows you to ping locations, objects & more.		      |
  
 #### Performance / Graphics
@@ -68,11 +67,10 @@ There are currently 35 mods in the modpack folder...
 
 #### Social
  
-| Mods (4)            | Description 						   		   |
+| Mods (3)            | Description 						   		   |
 |---------------------|------------------------------------------------|
 | `Simple Voice Chat` | Proximity voice chat for Minecraft.    	 	   |
 | `Chat Patches`      | Improves Chat with more customization. 		   |
-| `Replay Mod`        | Records your gameplay & has a built in editor. |
 | `Essentials`        | Social & Cosmetic Mod               		   |
 
 #### Misc
@@ -89,7 +87,7 @@ There are currently 35 mods in the modpack folder...
 
 
 ## Experimentation
-These mods may have incompatibility with some mods and are use at your own risk
+These mods may have incompatibility with some mods/hardware and are use at your own risk
 
 - [Vulcan Render](https://modrinth.com/mod/vulkanmod) (Very experimental but has shown promising performance gains.)
 - [Nvidium](https://modrinth.com/mod/nvidium) (Only works for Rtx 20 Series cards & above!)
