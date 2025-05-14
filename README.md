@@ -56,7 +56,7 @@ There are currently 31 mods in the modpack folder...
 | `ImmediatelyFast`  	  | Improves the immediate mode rendering performance. 		   					  |
 | `Krypton` 		 	  | Optimized Netty Handlers & more for lower consumption. 		 			      |
 | `Lithium` 		 	  | Improves game physics, mob AI, block ticking, & more. 		 			      |
-| `ModernFix`		 	  | Aims to improve performance and lower memory consumption. 	  			      |     				      
+| `ModernFix`		 	  | Aims to improve performance and lower memory consumption. 	  			      |
 | `Noisium` 		 	  | Optimises worldgen performance. 	       									  |
 | `Reeses Sodium Options` | Cleaner and more UI Friendly Options Menu.									  |
 | `ScalableLux` 		  | Improves the performance of light updates. 									  |
